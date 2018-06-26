@@ -8,6 +8,6 @@ the different and possible geometric issues that diverse landscapes have. Nevert
 cific problem and could be improved to be automatized and implemented in a self-driving car.
 
 Result Image:
-![alt text](https://github.com/fmcalcagno/RMASK_Lane_Detection/48.jpg "Result")
+![alt text](https://github.com/fmcalcagno/RMASK_Lane_Detection/blob/master/48.jpg "Result")
 
 
