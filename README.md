@@ -12,4 +12,4 @@ Result Image:
 ![alt text](https://github.com/fmcalcagno/RMASK_Lane_Detection/blob/master/48.jpg "Result")
 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/Efhf75C5B8w/0.jpg)]https://www.youtube.com/watch?v=Efhf75C5B8w "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Efhf75C5B8w/0.jpg)](https://www.youtube.com/watch?v=Efhf75C5B8w "Video Title")
